@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4965d7a7-7e5b-4677-98d2-fbc9fe66d1ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Boxing/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Boxing/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Boxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Boxing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ragdoll/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ragdoll/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Ragdoll/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/EnemyAnimatorController.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/EnemyAnimatorController.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Documentaion.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Documentaion.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/Example Scene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/Example Scene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/Ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/Ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickPlayerExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/JoystickSetterExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/Player.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Examples/Player.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Dynamic Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Dynamic Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Fixed Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Fixed Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Floating Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Floating Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Variable Joystick.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Prefabs/Variable Joystick.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Base/Joystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/DynamicJoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/FloatingJoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/JoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Editor/VariableJoystickEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/FloatingJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/VariableJoystick.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/All Axis Backgrounds/AllAxis_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Handles/Handle_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Horizontal Backgrounds/Horizontal_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Outline_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Plain_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Sprites/Vertical Backgrounds/Vertical_Ridged_Arrows.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Demo.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Demo.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Blue1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Blue1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Blue2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Blue2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Blue3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Blue3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Brown.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Brown.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Cyan.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Cyan.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Green1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Green1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Green2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Green2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey3.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey3.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey4.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Grey4.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Orange.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Orange.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Purple.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Purple.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Red.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Red.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_White.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_White.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Yellow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Materials/Prototype Grid/Prototype_512x512_Yellow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/ProBuilder Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/ProBuilder Data/Prototype Materials.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/ProBuilder Data/Prototype Materials.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_blue1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_blue1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_blue2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_blue2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_blue3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_blue3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_brown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_brown.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_cyan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_cyan.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_green1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_green1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_green2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_green2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey3.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_grey4.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_orange.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_purple.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_red.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_white.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/DemoScene/Gridbox Prototype Materials/Resources/Textures/Prototype Grid/prototype_512x512_yellow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController/CircleReticle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController/CircleReticle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/How To Use.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ModularFirstPersonController/How To Use.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animator Controller.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/New Animator Controller.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Models &amp; Animations.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Models &amp; Animations/AdditionalBoxer.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Models &amp; Animations/AdditionalBoxer.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Models &amp; Animations/BoxerStickman.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Models &amp; Animations/BoxerStickman.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Models &amp; Animations/Spectator.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Models &amp; Animations/Spectator.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Shaders/FieldOfView.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Shaders/FieldOfView.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Shaders/NewToon.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Shaders/NewToon.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Arrow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Materials/TexFloor2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Materials/TexFloor2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/FlashNew1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/FlashNew1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/flash1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/flash1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/hitSmall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/hitSmall.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/part1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/Punch/part1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/SmokePuff02ParticleSheet 1.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/SmokePuff02ParticleSheet 1.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/TexFloor2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/TexFloor2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Circle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Coin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Coin.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Coins_BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Coins_BG.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Font.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Font/TitanOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Font/TitanOne-Regular.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Health Bar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Health Bar.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Home.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Infinity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Infinity.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Joystick_inner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Joystick_inner.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Joystick_outter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Joystick_outter.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Panel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Panel.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Pause.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Pointer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Pointer.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green_outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green_outline_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green_outline_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rectangle_green_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Restart.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Resume.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Resume.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Reward_BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Reward_BG.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Round_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Round_green.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Round_green_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Round_green_2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rounded_square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Rounded_square.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue_outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue_outline_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue_outline_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_blue_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green_outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green_outline_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green_outline_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_green_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple_outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple_outline_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple_outline_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_purple_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow_outline.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow_outline.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow_outline_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow_outline_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow_shadow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Square_yellow_shadow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_blue.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_green.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_purple.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Royal Punch Assets/Sprites/UI/Title_yellow.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Heath.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Heath.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Hit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Hit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovementController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovementController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RotationController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/RotationController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2EJgl2LHbtr8TzmSyshKKuXzdu2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="rider.run.widget.enabled.cache" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4965d7a7-7e5b-4677-98d2-fbc9fe66d1ef" name="Changes" comment="" />
+      <created>1662319256679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662319256679</updated>
+      <workItem from="1662319262534" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
