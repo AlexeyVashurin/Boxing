@@ -2036,6 +2036,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthCount: 100
+  animationController: {fileID: 0}
 --- !u!95 &927678030
 Animator:
   serializedVersion: 3
@@ -2064,7 +2065,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 927678023}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d767c04accff458fbf5964f63dc4df75, type: 3}
+  m_Script: {fileID: 11500000, guid: a548960924db450da86fb95d626328e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _animator: {fileID: 927678030}
@@ -3103,6 +3104,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthCount: 100
+  animationController: {fileID: 0}
 --- !u!114 &1586271264
 MonoBehaviour:
   m_ObjectHideFlags: 0

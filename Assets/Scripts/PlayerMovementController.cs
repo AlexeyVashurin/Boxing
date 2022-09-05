@@ -12,8 +12,7 @@ public class PlayerMovementController : MonoBehaviour
     [SerializeField] private float speed = 10f;
     [SerializeField] private DynamicJoystick dynamicJoystick;
     
-    private Animator animator;
-    private AnimationController animationController;
+    private PlayerAnimationController animationController;
     
     private Vector3 velocity;
     private float gravity = -9.8f;
@@ -22,8 +21,7 @@ public class PlayerMovementController : MonoBehaviour
     {
         controller = GetComponent<CharacterController>();
         
-        animator = GetComponent<Animator>();
-        animationController = GetComponent<AnimationController>();
+        animationController = GetComponent<PlayerAnimationController>();
     }
 
     void Update()

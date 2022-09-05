@@ -7,17 +7,9 @@ using Random = UnityEngine.Random;
 
 public class Heath : MonoBehaviour
 {
-    public int healthCount = 100;
+    [SerializeField] private int healthCount = 100;
     private string enemyTag = "Enemy";
     private string playerTag = "Player";
-
-    public AnimationController animationController;
-    
-
-    private void Awake()
-    {
-        animationController = GetComponent<AnimationController>();
-    }
 
     private void OnTriggerEnter(Collider other)
     {
@@ -68,10 +60,8 @@ public class Heath : MonoBehaviour
 
     void Death()
     {
-        
         GetComponent<CapsuleCollider>().enabled = false;
         gameObject.GetComponent<Animator>().enabled = false;
         GetComponent<RotationController>().enabled = false;
-        
     }
 }
