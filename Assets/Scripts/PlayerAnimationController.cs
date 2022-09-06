@@ -2,6 +2,7 @@ namespace DefaultNamespace
 {
     public class PlayerAnimationController : AnimationController
     {
+        bool collisionEnemy = false;
         
         public override void AnimateMove(float xMove, float yMove)
         {
@@ -11,6 +12,12 @@ namespace DefaultNamespace
                 _animator.SetBool("Idle", false);
                 _animator.SetBool("Back", false);
                 _animator.SetBool("Forward", false);
+            }
+
+
+            if (xMove == 0 && yMove == 0 && !collisionEnemy)
+            {
+                SetIdle();
             }
 
             if (xMove < 0 && yMove < 0.5)
@@ -57,6 +64,11 @@ namespace DefaultNamespace
             _animator.SetBool("Forward", false);
             _animator.SetBool("Right", false);
             _animator.SetBool("Left", false);
+        }
+
+        public void SetCollisionEnemy(bool collision)
+        {
+            collisionEnemy = collision;
         }
     }
 }

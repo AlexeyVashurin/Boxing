@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4965d7a7-7e5b-4677-98d2-fbc9fe66d1ef" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyAnimationController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyAnimationController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerAnimationController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerAnimationController.cs.meta" afterDir="false" />
+    <list default="true" id="4965d7a7-7e5b-4677-98d2-fbc9fe66d1ef" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Boxing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Boxing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Joystick Pack/Scripts/Joysticks/DynamicJoystick.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/New Animator Controller.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/New Animator Controller.controller" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AnimationController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Heath.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Heath.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Hit.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Hit.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerMovementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerAnimationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerAnimationController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662319256679</updated>
       <workItem from="1662319262534" duration="108000" />
-      <workItem from="1662319411380" duration="3972000" />
+      <workItem from="1662319411380" duration="5155000" />
+      <workItem from="1662484540446" duration="2022000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1662319428184</created>
@@ -75,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662319428184</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Refactoring">
+      <created>1662411394944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662411394944</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring" />
   </component>
 </project>

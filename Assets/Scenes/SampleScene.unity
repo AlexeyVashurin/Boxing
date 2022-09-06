@@ -2036,7 +2036,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthCount: 100
-  animationController: {fileID: 0}
+  playerAnimationController: {fileID: 927678031}
 --- !u!95 &927678030
 Animator:
   serializedVersion: 3
@@ -3104,7 +3104,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   healthCount: 100
-  animationController: {fileID: 0}
+  playerAnimationController: {fileID: 0}
 --- !u!114 &1586271264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3127,7 +3127,7 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  m_Radius: 2
+  m_Radius: 3.07
   m_Height: 6.028818
   m_Direction: 1
   m_Center: {x: 0.07174301, y: 2.3274884, z: 0}

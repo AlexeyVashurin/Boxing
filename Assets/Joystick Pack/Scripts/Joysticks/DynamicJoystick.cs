@@ -30,7 +30,7 @@ public class DynamicJoystick : Joystick
     {
         background.gameObject.SetActive(false);
         base.OnPointerUp(eventData);
-        animationController.SetIdle();
+       // animationController.SetIdle();
     }
 
     protected override void HandleInput(float magnitude, Vector2 normalised, Vector2 radius, Camera cam)
