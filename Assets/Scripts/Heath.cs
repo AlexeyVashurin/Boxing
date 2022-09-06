@@ -77,7 +77,7 @@ public class Heath : MonoBehaviour
 
     void Death()
     {
-        GetComponent<CapsuleCollider>().enabled = false;
+        //GetComponent<CapsuleCollider>().enabled = false;
         gameObject.GetComponent<Animator>().enabled = false;
         GetComponent<RotationController>().enabled = false;
     }

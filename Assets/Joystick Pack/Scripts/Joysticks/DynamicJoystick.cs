@@ -7,7 +7,6 @@ using UnityEngine.EventSystems;
 public class DynamicJoystick : Joystick
 {
     public float MoveThreshold { get { return moveThreshold; } set { moveThreshold = Mathf.Abs(value); } }
-    private AnimationController animationController;
 
     [SerializeField] private float moveThreshold = 1;
 
@@ -16,7 +15,6 @@ public class DynamicJoystick : Joystick
         MoveThreshold = moveThreshold;
         base.Start();
         background.gameObject.SetActive(false);
-        animationController = FindObjectOfType<AnimationController>();
     }
 
     public override void OnPointerDown(PointerEventData eventData)
@@ -30,7 +28,6 @@ public class DynamicJoystick : Joystick
     {
         background.gameObject.SetActive(false);
         base.OnPointerUp(eventData);
-       // animationController.SetIdle();
     }
 
     protected override void HandleInput(float magnitude, Vector2 normalised, Vector2 radius, Camera cam)
