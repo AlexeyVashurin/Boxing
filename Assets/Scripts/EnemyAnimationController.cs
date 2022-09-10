@@ -13,6 +13,11 @@ namespace DefaultNamespace
             
         }
 
+        public override void SetCollisionEnemy(bool collision)
+        {
+            
+        }
+
         public void JumpCombo()
         {
             

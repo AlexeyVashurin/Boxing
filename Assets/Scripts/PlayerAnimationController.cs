@@ -66,7 +66,7 @@ namespace DefaultNamespace
             _animator.SetBool("Left", false);
         }
 
-        public void SetCollisionEnemy(bool collision)
+        public override void SetCollisionEnemy(bool collision)
         {
             collisionEnemy = collision;
         }
